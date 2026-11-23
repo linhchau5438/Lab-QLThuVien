@@ -1,0 +1,6 @@
+{
+  "name": "LibraVN — Quản Lý Thư Viện",
+  "description": "Hệ thống quản lý thư viện hiện đại lưu trữ bằng LocalStorage với đầy đủ nghiệp vụ sách, độc giả, mượn, trả, gia hạn và thống kê.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
